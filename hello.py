@@ -1,1 +1,1 @@
-print "Namstey everyone"
+print "Namstey Duniya"
