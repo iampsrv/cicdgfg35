@@ -1,1 +1,1 @@
-print "Namstey Duniya"
+print "hello world hello everyone"
