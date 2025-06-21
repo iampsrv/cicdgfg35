@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_IMAGE = "batch23appnew"
+        DOCKER_IMAGE = "batch35dhr"
         DOCKER_REGISTRY = "psrv3"
         IMAGE_TAG = "${DOCKER_REGISTRY}/${DOCKER_IMAGE}:${BUILD_NUMBER}"
     }
